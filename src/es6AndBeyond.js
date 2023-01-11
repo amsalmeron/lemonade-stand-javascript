@@ -26,6 +26,7 @@
 //     }
 // }
 
+
 // lemonade.lemonJuice = 7
 
 // function updateLemonade(lemonade, lemonJuice, water, sugar, iceCubes) {
@@ -40,6 +41,7 @@
 
 // console.log(updateLemonade(lemonade, 5, 8, 10, 1));
 // console.log(updateLemonade(lemonade, 5, 8, 10, 1).calculatePrice());
+
 
 // const numbers = [1,2,3,4,5,6,7,8,9,10]
 
@@ -68,4 +70,3 @@
 // console.log(incrementLambda(6))
 
 // console.log((y => y + 1)(5))
-"use strict";
